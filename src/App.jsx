@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import clasificador from "./toxicityClassifier.js"
+import clasificador from './classifierToxicity'
 
 
 function App() {
